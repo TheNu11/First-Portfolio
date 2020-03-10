@@ -1,0 +1,65 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    background-color: aquamarine;
+    color: darkorchid;
+    text-align: center;
+    font-weight: bold;
+    font-size: 36px;
+}
+h2{
+    background-color: aquamarine;
+    color: violet;
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+}
+#pro1{
+    height: 50%;
+    width: 50%;
+}
+#pro2{
+    height: 70%;
+    width: 70%;
+    
+}
+#pro3{
+    height: 50%;
+    width: 50%;
+}
+#pro4{
+    height: 50%;
+    width: 50%;
+}
+#pro5{
+    height: 40%;
+    width: 40%;
+}
+#pro6{
+    height: 70%;
+    width: 70%;
+}
+
+
+
+li{
+    background-color: lightskyblue;
+    color: crimson;
+    font-size: 22px;
+    font-weight: bold;
+    position: static;
+    width: 2800px;
+    border: 15px solid navy;
+    padding: 20px;
+    margin: 20px;
+}
+p{
+background-color: lightsalmon;
+color: lightgreen;
+font-size: 30px;
+text-align: center;
+}
+
+
+
